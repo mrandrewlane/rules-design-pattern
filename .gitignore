@@ -1,0 +1,6 @@
+.vscode/*
+
+rules/bin/*
+rules/obj/*
+
+/.vs/rules/v16/Server/sqlite3/db.lock
